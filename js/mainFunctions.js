@@ -10,6 +10,11 @@ const foods = {
   "banana" : {types: [], servingSize: "150g", fructose: 0.0231, glucose: 0.0238},
   "mandarin" : {types: [], servingSize: "150g", fructose: 0.0222, glucose: 0.0198},
 };
+let dlFoods;
+
+function defineDlFoods() {
+  var dataset = new Blob;	
+}
 
 function listenType(e) {
   var dropDown = document.getElementById("DROPDOWN" + e.id);
