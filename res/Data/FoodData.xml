@@ -2,7 +2,11 @@
 <Foods>
   <apple>
     <types>
-      
+        <Fuji>
+      	<fructose>0.077<fructose>
+        <glucose>0.033</glucose>
+        <servingSize>150</servingSize>
+      </Fuji>    
     </types>
   </apple>
 </Foods>
