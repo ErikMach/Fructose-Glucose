@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Foods>
-  <apple>
-    <types>
-        <Fuji>
+  <apple type="Fuji">
       	<fructose>0.077<fructose>
         <glucose>0.033</glucose>
-        <servingSize>150</servingSize>
-      </Fuji>    
-    </types>
+        <servingSize>150</servingSize>   
+  </apple>
+  <apple type="Royal Gala">
+    <fructose>0.077<fructose>
+    <glucose>0.033</glucose>
+     <servingSize>150</servingSize>
   </apple>
 </Foods>
