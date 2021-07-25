@@ -6,8 +6,28 @@
         <servingSize>150</servingSize>   
   </apple>
   <apple type="Royal Gala">
-    <fructose>0.077<fructose>
-    <glucose>0.033</glucose>
+    <fructose>0.069<fructose>
+    <glucose>0.023</glucose>
+     <servingSize>150</servingSize>
+  </apple>
+        <apple type="Red Delicious">
+    <fructose>0.073<fructose>
+    <glucose>0.030</glucose>
+     <servingSize>150</servingSize>
+  </apple>
+  <apple type="Granny Smith">
+    <fructose>0.023<fructose>
+    <glucose>0.011</glucose>
+     <servingSize>150</servingSize>
+  </apple>
+  <apple type="Golden Delicious">
+    <fructose>0.052<fructose>
+    <glucose>0.020</glucose>
+     <servingSize>150</servingSize>
+  </apple>
+  <apple type="Pink Lady">
+    <fructose>0.048<fructose>
+    <glucose>0.014</glucose>
      <servingSize>150</servingSize>
   </apple>
 </Foods>
