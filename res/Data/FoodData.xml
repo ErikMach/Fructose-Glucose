@@ -10,7 +10,7 @@
     <glucose>0.023</glucose>
      <servingSize>150</servingSize>
   </apple>
-        <apple type="Red Delicious">
+  <apple type="Red Delicious">
     <fructose>0.073<fructose>
     <glucose>0.030</glucose>
      <servingSize>150</servingSize>
@@ -30,4 +30,9 @@
     <glucose>0.014</glucose>
      <servingSize>150</servingSize>
   </apple>
+  <coconut type="Water">
+    <fructose>0.048<fructose>
+    <glucose>0.014</glucose>
+    <servingSize>150</servingSize>
+  </coconut>
 </Foods>
