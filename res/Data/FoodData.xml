@@ -35,4 +35,9 @@
     <glucose>0.014</glucose>
     <servingSize>150</servingSize>
   </coconut>
+  <coconut type="Milk">
+    <fructose>0.048Yeet<fructose>
+    <glucose>0.014</glucose>
+    <servingSize>150</servingSize>
+  </coconut>
 </Foods>
